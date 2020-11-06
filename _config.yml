@@ -8,7 +8,7 @@ defaults:
 
 title: EP1000
 subtitle: Digital Fab & Prototyping Fundamentals
-baseurl: "/epblogsite"  # the subpath of your site, e.g. /blog
+baseurl: "/EPBlogsite"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
 remote-theme: christianezeani/panthera-jekyll
 

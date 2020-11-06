@@ -1,0 +1,78 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+title: Your Name Website
+subtitle: Digital Fab & Prototyping Fundamentals
+baseurl: "/web-pk"  # the subpath of your site, e.g. /blog
+# theme: panthera-jekyll
+remote-theme: christianezeani/panthera-jekyll
+
+# Side Menu Links
+menu:
+  - text: Home
+    link: /
+    icon: ""
+
+  - text: About
+    link: /about.html
+    icon: ""
+
+  - text: Fablab Safety
+    link: /docs/safety.html
+    icon: ""
+
+  - text: Project Management
+    link: /docs/proj-mgmt.html
+    icon: ""
+
+  - text: Web Development
+    link: /docs/web.html
+    icon: ""
+
+  - text: Computer Aided Design
+    link: /docs/cad.html
+    icon: ""
+
+  - text: Embedded Programming
+    link: /docs/embedded.html
+    icon: ""
+
+  - text: 3D Printing
+    link: /docs/3dprint.html
+    icon: ""
+
+  - text: Laser Cutting
+    link: /docs/laser.html
+    icon: ""
+
+  - text: Final Project
+    link: /docs/project.html
+    icon: ""
+
+  - text: Contact
+    link: /contact.html
+    icon: ""
+
+
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: ""
+    icon: fab fa-linkedin
+
+  - name: github
+    link: ""
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: ""
+    icon: fab fa-facebook-square
+
+  - name: twitter
+    link: ""
+    icon: fab fa-twitter

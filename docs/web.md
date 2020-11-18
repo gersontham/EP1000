@@ -52,9 +52,7 @@ Here are some of the steps I followed from Jake Wright's video:
 7. Format the rest of the website by making aesthetic changes to the background, font family, etc.
 8. Preview the website by dropping the html file into your web browser.
 ![](docs/images/webpreview.JPG)
-
 * * *
-
 ## Web Development options
 ### HTML/CSS
 The very basic method of making a website from scratch where you have full control of everything from the content to how it looks. However, if you do not know how to code HTML or CSS, it could be a time consuming process to learn, code the website and format the website. It is also difficult to maintain and adding new pages can be a pain

@@ -27,19 +27,19 @@ menu:
     icon: ""
 
   - text: Learning Prototyping
-    link: /docs/prototype.html
+    link: /docs/prototype.md
     icon: ""
 
   - text: Web Development
-    link: /docs/web.html
+    link: /docs/web.md
     icon: ""
 
   - text: Github & Version Control
-    link: /docs/version.html
+    link: /docs/version.md
     icon: ""
 
   - text: Computer Graphics
-    link: /docs/graphics.html
+    link: /docs/graphics.md
     icon: ""
 
   - text: 3D Printing

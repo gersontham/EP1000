@@ -4,10 +4,9 @@ layout: default
 
 # About Me
 
-## Who Am I?
+## Hi, My name is Gerson
 
-![](docs/images/avatar-photo.jpg)
+![](docs/images/selfie.jpg)
 
-*image_caption*
 
-Write something about yourself, your course of study, why you took this Poly-Wide elective and what you hope to gain by the end of this module.
+I'm from currently pursuing a Diploma in Mechanical Engineering in Singapore Polytechnic. My telegram id is @SentinelOP. 

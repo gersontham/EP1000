@@ -6,7 +6,7 @@ layout: default
 
 ## Hi, My name is Gerson
 
-![](docs/images/selfie.jpg)
+![](docs/images/selfie.jpg){: width="30%"}
 
 
-I'm from currently pursuing a Diploma in Mechanical Engineering in Singapore Polytechnic. My telegram id is @SentinelOP. 
+I'm from currently pursuing a Diploma in Mechanical Engineering in Singapore Polytechnic. My telegram id is @SentinelOP.

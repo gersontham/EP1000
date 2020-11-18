@@ -26,20 +26,20 @@ menu:
     link: /docs/safety.html
     icon: ""
 
-  - text: Project Management
-    link: /docs/proj-mgmt.html
+  - text: Learning Prototyping
+    link: /docs/prototype.html
     icon: ""
 
   - text: Web Development
     link: /docs/web.html
     icon: ""
 
-  - text: Computer Aided Design
-    link: /docs/cad.html
-    icon: ""
-
   - text: Github & Version Control
     link: /docs/version.html
+    icon: ""
+
+  - text: Computer Graphics
+    link: /docs/graphics.html
     icon: ""
 
   - text: 3D Printing

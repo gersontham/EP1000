@@ -38,8 +38,8 @@ menu:
     link: /docs/cad.html
     icon: ""
 
-  - text: Embedded Programming
-    link: /docs/embedded.html
+  - text: Github & Version Control
+    link: /docs/version.html
     icon: ""
 
   - text: 3D Printing

@@ -23,11 +23,11 @@ This can be achieved by a series of commands:
 
 Github desktop allows you to see the changes made to the repository and will notify the user if any changes were made, when and by who.
 
-![changes made](images/changes.jpeg)
+![changes made](images/changes.JPG)
 
 You can select the change your will like to keep or discard by using the checkboxes by the side, right clicking it and click discard changes. If you are satisfied with the changes made, you can click "commit to main" in the bottom left hand corner to upload the changes into the local repository.
 
-![Push Origin](images/push.jpeg)
+![Push Origin](images/push.JPG)
 
 Going back to the staging area, when you are ready to copy the changes to the remote repository at git, click push origin to copy the changes over. The changes will be reflected in the history section of Github Desktop.
 

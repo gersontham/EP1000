@@ -44,7 +44,7 @@ Following up from coding the base of my website, I needed to format the website 
 Here are some of the steps I followed from Jake Wright's video:
 1. Start by designing the website layout on paper, this will give you a feel on how your end product should look like. Assign the required space for each component of your website.
 ![](docs/images/weblayout.jpeg)
-2. Segement your HTML code in to divs/divisions and assign classes to the elements like your header, paragraphs, navigation bar, etc.
+2. Segment your HTML code in to divs/divisions and assign classes to the elements like your header, paragraphs, navigation bar, etc.
 3. Create a file and rename it `style.css`.
 4. Link the HTML file (index.html) to the CSS (style.css) file.
 5. In the CSS file, specify the sizes of each part of your website in pixels and assign the appropriate padding.

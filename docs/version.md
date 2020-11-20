@@ -10,6 +10,7 @@ For example, you wrote an article about a specific topic. Later on you found out
 Github is a free and open-sourced distributed version control system which will allow you revisions for your code. Git allows for multiple people to work on a single project. This project will be pushed onto a remote repository that can be accessed on their website. Git also allows your to retrieve the repository from their website and edit it locally on your personal computer.
 
 This can be achieved by a series of commands:
+
 |Commands |Usage |
 |-------|-------|
 |git clone|Copies and downloads a repository to your folder. Fast method to copy existing work.|

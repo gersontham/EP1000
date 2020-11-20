@@ -52,6 +52,7 @@ Here are some of the steps I followed from Jake Wright's video:
 7. Format the rest of the website by making aesthetic changes to the background, font family, etc.
 8. Preview the website by dropping the html file into your web browser.
 ![](docs/images/webpreview.JPG)
+
 * * *
 ## Web Development options
 ### HTML/CSS

@@ -33,7 +33,7 @@ The file location for the importing image is important as without it, the code w
 ## CSS
 Following up from coding the base of my website, I needed to format the website to make it more appealing, that is where CSS comes in. Cascading Style Sheets (CSS) is a language used to describe how the html file will be presented. I proceeded to watch another of Jake Wright's videos [Learn CSS in 12 Minutes](https://www.youtube.com/watch?v=0afZj1G0BIE). Following Jack Wright's template i have created my very first website. Similarly I used [Atom](https://atom.io/) for this task as well.
 
-### Common formating areas:
+### Common formatting areas:
 - width: defined by x amount of px (pixel) for images
 - Background colour: #XXXXXX, defined by a hexadecimal colour code
 - font family: defines the font that will be used through out your website. E.g. Source code Pro
@@ -43,7 +43,7 @@ Following up from coding the base of my website, I needed to format the website 
 
 Here are some of the steps I followed from Jake Wright's video:
 1. Start by designing the website layout on paper, this will give you a feel on how your end product should look like. Assign the required space for each component of your website.
-![](docs/images/weblayout.jpeg)
+![Web Layout](images/weblayout.jpeg)
 2. Segment your HTML code in to divs/divisions and assign classes to the elements like your header, paragraphs, navigation bar, etc.
 3. Create a file and rename it `style.css`.
 4. Link the HTML file (index.html) to the CSS (style.css) file.
@@ -51,7 +51,7 @@ Here are some of the steps I followed from Jake Wright's video:
 6. Move the navigation bar to the side of your main content by float:left.
 7. Format the rest of the website by making aesthetic changes to the background, font family, etc.
 8. Preview the website by dropping the html file into your web browser.
-![](docs/images/webpreview.JPG)
+![Web Preview](images/webpreview.JPG)
 
 * * *
 ## Web Development options

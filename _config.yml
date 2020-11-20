@@ -42,12 +42,12 @@ menu:
     link: /docs/graphics.html
     icon: ""
 
-  - text: 3D Printing
-    link: /docs/3dprint.html
+  - text: Fusion 360
+    link: /docs/fusion.html
     icon: ""
 
-  - text: Laser Cutting
-    link: /docs/laser.html
+  - text: 3D Printing
+    link: /docs/3dprint.html
     icon: ""
 
   - text: Final Project

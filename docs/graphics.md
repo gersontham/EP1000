@@ -34,7 +34,7 @@ Steps:
 7. Import your seaside view to your seaside layer.
 8. Resize the subject to fit the image. and there you have it.
 
-![Final Product Image](images/photoshopfinal.jpg)
+![Final Product Image](images/photoshopfinal.JPG)
 ![Final image](images/personedit.jpg)
 
 You can export the image by clicking Save As, Save as type: JPEG

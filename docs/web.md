@@ -37,7 +37,7 @@ Following up from coding the base of my website, I needed to format the website 
 - width: defined by x amount of px (pixel) for images
 - Background colour: #XXXXXX, defined by a hexadecimal colour code
 - font family: defines the font that will be used through out your website. E.g. Source code Pro
-- Padding: Top px, left px, right px, bottom px. This defines the spacing between each divison
+- Padding: Top px, left px, right px, bottom px. This defines the spacing between each division.
 - Margins: margin-left and margin-right by x amount of pixels will align your division to the left or the right.
 
 
@@ -47,7 +47,7 @@ Here are some of the steps I followed from Jake Wright's video:
 2. Segement your HTML code in to divs/divisions and assign classes to the elements like your header, paragraphs, navigation bar, etc.
 3. Create a file and rename it `style.css`.
 4. Link the HTML file (index.html) to the CSS (style.css) file.
-5. In the CSS file, specify the sizes of each part of your website in pixels and assign the appropiate padding.
+5. In the CSS file, specify the sizes of each part of your website in pixels and assign the appropriate padding.
 6. Move the navigation bar to the side of your main content by float:left.
 7. Format the rest of the website by making aesthetic changes to the background, font family, etc.
 8. Preview the website by dropping the html file into your web browser.

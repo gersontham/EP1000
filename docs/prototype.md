@@ -16,7 +16,7 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 
 3. To assemble the part, I used a hot glue gun to attach the parts together. I added a gusset for more stability and rigidity.
 
-![Hotglue](hotglue.jpeg)
+![Hotglue](images/hotglue.jpeg)
 
 4. After doing the initial assembly, I realised that it needed to have a platform to hold the phone and so I cut out and glued some extra platforms for the phone to sit on.
 

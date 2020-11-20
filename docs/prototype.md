@@ -29,7 +29,7 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 
 ## Final Product
 
-![Hero shot 1](images/hero1.jpeg)![Hero shot 2](images/hero2.jpeg)![Hero shot 3](images/hero3.jpeg)
+![Hero shot 1](images/hero1.jpg)![Hero shot 2](images/hero2.jpg)![Hero shot 3](images/hero3.jpg)
 
 * * *
 

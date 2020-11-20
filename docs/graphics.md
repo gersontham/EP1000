@@ -20,21 +20,21 @@ Steps:
 2. Click on the Quick selection tool and press select subject in the top
 3. After doing that, click Select and Mask also in the top
 
-![Masking](images/mask.jpg)
+![Masking](images/mask.JPG)
 
 4. Use the refine edge brush tool to clean up the edges on the hair. For it to be more visible you can switch the mode of background view.
 
-![view change](view.jpg)
+![view change](images/view.JPG)
 
 5. From output settings select Output to: `Layer mask` and click OK
 
-![Output change](psoutput.jpg)
+![Output change](images/psoutput.jpg)
 
 6. Create a new layer and shift it below the masked layer. Call it seaside layer
 7. Import your seaside view to your seaside layer.
 8. Resize the subject to fit the image. and there you have it.
 
-![Final Product Image](photoshopfinal.jpg)
-![Final image](personedit.jpg)
+![Final Product Image](images/photoshopfinal.jpg)
+![Final image](images/personedit.jpg)
 
 You can export the image by clicking Save As, Save as type: JPEG

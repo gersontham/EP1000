@@ -7,12 +7,12 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 
 1. I started by drawing out a design for my phone stand on a piece of paper. I added some dimensions i feel that can fit my phone (Samsung S10+).
 
-![Sketch](sketch.jpeg)
+![Sketch](images/sketch.jpeg)
 
 2. After I finalize the dimensions of the phone stand. I drew it out on cardboard and cut it out using a box cutter.
 
-![Cutting](cutting.jpeg)
-![Parts](parts.jpeg)
+![Cutting](images/cutting.jpeg)
+![Parts](images/parts.jpeg)
 
 3. To assemble the part, I used a hot glue gun to attach the parts together. I added a gusset for more stability and rigidity.
 
@@ -20,16 +20,16 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 
 4. After doing the initial assembly, I realised that it needed to have a platform to hold the phone and so I cut out and glued some extra platforms for the phone to sit on.
 
-![Adjustment](platform1.jpeg) ![Adjustment 2](platform2.jpeg)
+![Adjustment](images/platform1.jpeg) ![Adjustment 2](images/platform2.jpeg)
 
 5. The final adjustment done was to cut a small notch by the side of the phone stand. This was to accomodate the charging cable from interferring with the bottom of the phone stand so it would sit flush with the table.
 
-![Notch](notch.jpeg)
+![Notch](images/notch.jpeg)
 
 
 ## Final Product
 
-![Hero shot 1](hero1.jpeg)![Hero shot 2](hero2.jpeg)![Hero shot 3](hero3.jpeg)
+![Hero shot 1](images/hero1.jpeg)![Hero shot 2](images/hero2.jpeg)![Hero shot 3](images/hero3.jpeg)
 
 * * *
 

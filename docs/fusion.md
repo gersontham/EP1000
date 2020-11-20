@@ -7,7 +7,8 @@ layout: default
 Getting used to drawing a sketch is essential to becoming proficient in Fusion 360. So I started by copying specific shapes and making them a sketch in Fusion 360.
 
 ![Exercise 1 Reference](images/exercise1.png)![Exercise 1](fusion/exercise1.f3d)
-![Exercise 1 Reference](images/exercise2.png)![Exercise 2](fusion/exercise2.f3d)
+
+![Exercise 2 Reference](images/exercise2.png)![Exercise 2](fusion/exercise2.f3d)
 
 * * *
 ## 3D Model

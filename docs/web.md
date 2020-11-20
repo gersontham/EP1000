@@ -43,7 +43,9 @@ Following up from coding the base of my website, I needed to format the website 
 
 Here are some of the steps I followed from Jake Wright's video:
 1. Start by designing the website layout on paper, this will give you a feel on how your end product should look like. Assign the required space for each component of your website.
+
 ![Web Layout](images/weblayout.jpg)
+
 2. Segment your HTML code in to divs/divisions and assign classes to the elements like your header, paragraphs, navigation bar, etc.
 3. Create a file and rename it `style.css`.
 4. Link the HTML file (index.html) to the CSS (style.css) file.
@@ -51,6 +53,7 @@ Here are some of the steps I followed from Jake Wright's video:
 6. Move the navigation bar to the side of your main content by float:left.
 7. Format the rest of the website by making aesthetic changes to the background, font family, etc.
 8. Preview the website by dropping the html file into your web browser.
+
 ![Web Preview](images/webpreview.JPG)
 
 * * *

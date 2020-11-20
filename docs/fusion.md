@@ -10,6 +10,7 @@ Getting used to drawing a sketch is essential to becoming proficient in Fusion 3
 |--------|-------------|
 |(exercise1.png)|(INSERT FUSION FILE HERE)|
 |(exercise2.png)|(INSERT FUSION FILE HERE)|
+
 * * *
 ## 3D Model
 After getting some practice with drawing, I decided to take a leap and 3D model some novelty items as a first test.

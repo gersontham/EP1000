@@ -22,13 +22,17 @@ This can be achieved by a series of commands:
 [GitHub Desktop](https://desktop.github.com/) was used to edit the repository locally.
 
 Github desktop allows you to see the changes made to the repository and will notify the user if any changes were made, when and by who.
-(changes.jpeg)
+
+![changes made](changes.jpeg)
 
 You can select the change your will like to keep or discard by using the checkboxes by the side, right clicking it and click discard changes. If you are satisfied with the changes made, you can click "commit to main" in the bottom left hand corner to upload the changes into the local repository.
-(push.jpeg)
+
+![Push Origin](push.jpeg)
 
 Going back to the staging area, when you are ready to copy the changes to the remote repository at git, click push origin to copy the changes over. The changes will be reflected in the history section of Github Desktop.
-(history.jpeg)
 
-If you will like to take back some changes that you have already pushed. You can simply right click the changes made and click *Revert this commit*. This return the previous version before the changes is made. Make sure to push to the orign again to confirm the revert.
-(revert.jpeg)
+![History](history.jpeg)
+
+If you will like to take back some changes that you have already pushed. You can simply right click the changes made and click *Revert this commit*. This return the previous version before the changes is made. Make sure to push to the origin again to confirm the revert.
+
+![Revert](revert.jpeg)

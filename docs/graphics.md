@@ -5,12 +5,14 @@ layout: default
 # Computer Graphics
 
 Computer graphic can be classified into 2 groups
+
 |Raster |Vector  |
 |--------|-------------|
 |Deals with images with pixels on a screen. Mainly used for rendering images i.e. photographs. The size of the image is represented by the pixels it has by its length and width. The image when zoomed in will become blurry but it will be possible to see each pixel that makes up the image. Some software used for editing raster images are [GIMP](https://www.gimp.org/), [Photoshop](https://www.adobe.com/sea/products/photoshop.html) and MS Paint. File formats for rasters are PNG and JPEG/JPG|Uses paths, points, curves and polygons to model the image. With the use of mathematical functions or algorithms it will display the image on the screen. The vectors have clean edges and so if you zoom in there will be no distortion. Used yo format logos, posters, signs, etc. Software used for vectors are [Inkscape](https://inkscape.org/) and [Illustrator](https://www.adobe.com/sea/products/illustrator.html). Some common vector file formats are .dxf, .svg and STEP|
 
 ## Photoshop
 I have decided to learn a little bit about photoshop as I have access to it. The task is to remove the background of the photo and replace it with the seaside view.
+
 |Photo |Seaside View  |
 |--------|-------------|
 |(person.jpg)|(seaside.jpg)|

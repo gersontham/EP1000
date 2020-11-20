@@ -5,6 +5,7 @@ layout: default
 # Fusion 360
 ## Drawing
 Getting used to drawing a sketch is essential to becoming proficient in Fusion 360. So i started by copying sepcific shapes and making them a sketch in Fusion 360.
+
 |Shape |Sketch |
 |--------|-------------|
 |(exercise1.png)|(INSERT FUSION FILE HERE)|

@@ -28,7 +28,7 @@ Steps:
 
 5. From output settings select Output to: `Layer mask` and click OK
 
-![Output change](images/psoutput.jpg)
+![Output change](images/psoutput.JPG)
 
 6. Create a new layer and shift it below the masked layer. Call it seaside layer
 7. Import your seaside view to your seaside layer.

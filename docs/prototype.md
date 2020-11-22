@@ -12,6 +12,7 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 2. After I finalize the dimensions of the phone stand. I drew it out on cardboard and cut it out using a box cutter.
 
 ![Cutting](images/cutting.jpg)
+
 ![Parts](images/parts.jpg)
 
 3. To assemble the part, I used a hot glue gun to attach the parts together. I added a gusset for more stability and rigidity.

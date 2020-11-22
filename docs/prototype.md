@@ -22,7 +22,7 @@ Taking a first dive into prototyping, I started with a simple project. A phone s
 
 ![Adjustment](images/platform1.jpg) ![Adjustment 2](images/platform2.jpg)
 
-5. The final adjustment done was to cut a small notch by the side of the phone stand. This was to accomodate the charging cable from interferring with the bottom of the phone stand so it would sit flush with the table.
+5. The final adjustment done was to cut a small notch by the side of the phone stand. This was to accommodate the charging cable from interfering with the bottom of the phone stand so it would sit flush with the table.
 
 ![Notch](images/notch.jpg)
 

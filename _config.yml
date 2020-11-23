@@ -50,14 +50,17 @@ menu:
     link: /docs/3dprint.html
     icon: ""
 
-  - text: Final Project
-    link: /docs/project.html
+  - text: Laser Cutting
+    link: /docs/laser.html
     icon: ""
 
   - text: Contact
     link: /contact.html
     icon: ""
 
+  - text: Final Project
+    link: /docs/project.html
+    icon: ""
 
 # Socialmedia Icons
 social_icons:

@@ -59,3 +59,5 @@ Creating the chess piece is quite a good beginner project as I was able to get a
 9. Change the setting `New Body` to Join. And your done.
 
 ![Knight Piece](images/knight.JPG)
+
+{% include knight.html %}

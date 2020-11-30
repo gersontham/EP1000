@@ -24,7 +24,9 @@ An effective way to practice sketching and extrusion of different sections. Addi
 3. Finish the sketch and extrude the outer border and the name to 4mm (Settings used: Extrude, One side, 4mm, New Body)
 4. Extrude the inter section of the nametag to have a lowered section to see the name well. Be sure to select Join instead of New body when completing this step.
 
-![Nametag Extrude](images/nametag.JPG)
+Download Here: [Nametag.f3d](fusion/nametag.f3d)
+
+{% include nametag.html %}
 
 
 ### Fidget Spinner
@@ -38,7 +40,9 @@ The design of the fidget spinner is based on the popular anime Naruto. This exam
 
 5. Finish the sketch and extrude the outer section to 8mm, and the inner section to 7.5mm. The hole in the center is for the ball bearing that will spin the fidget sinner.
 
-![Fidget Spinner Extrude](images/fidgetspinner.JPG)
+Download Here: [fidgetspinner.f3d](fidgetspinner.f3d)
+
+{% include fidgetspinner.html %}
 
 ### Chess piece (Knight)
 Creating the chess piece is quite a good beginner project as I was able to get a hang of Fusion 360 like importing an image to draw and take reference from, the line and spline tool to draw out the head of the chess piece. I also learnt how to use the extrude and revolve tool to create my 3D model.
@@ -58,6 +62,6 @@ Creating the chess piece is quite a good beginner project as I was able to get a
 8. Select the closed profile and use the revolve function selecting the Z axis as the revolve axis.
 9. Change the setting `New Body` to Join. And your done.
 
-![Knight Piece](images/knight.JPG)
+Download Here: [knight.f3d](fusion/knight.f3d)
 
 {% include knight.html %}

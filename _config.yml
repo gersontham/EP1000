@@ -54,8 +54,8 @@ menu:
     link: /docs/laser.html
     icon: ""
 
-  - text: Contact
-    link: /contact.html
+  - text: Electronics
+    link: /docs/electronics.html
     icon: ""
 
   - text: Final Project

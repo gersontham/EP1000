@@ -35,5 +35,7 @@ For this project, I will be trying to laser cut the box that I have designed in 
 8. After cutting, assemble the pieces together and you have the project you designed in the CAD software, Fusion 360.
 
 ![Cutting Process](images/laser/cutting1.jpg)
+
 ![Parts](images/laser/seperateparts.jpg)
+
 ![Box 1](images/laser/box1.jpg)![Box 2](images/laser/box2.jpg)

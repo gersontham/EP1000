@@ -8,23 +8,33 @@ layout: default
 Some considerations to take when designing for 3D printing.
 
 - Layer height (extruded filament thickness)
+
 ![Layer Height](images/3dprinting/layerheight.png)
+
 It is the height of each layer of the 3D print, The thinner the layers, the more detail it can bring out with a smoother finish, however, the print time will be long. Ranges from 0.1~0.4mm for a 0.4 nozzle.
 
 - Wall thickness
+
 ![Wall Thickness](images/3dprinting/wallthickness.png)
+
 Controls the number of strands required for the thickness of the wall. Affects the printing time and overall strength of the final product.
 
 - Infill percentages
+
 ![Infill](images/3dprinting/infill.png)
+
 It is the amount of material that fills the internal features of the 3D print. It is definitely possible to print the object as a solid product, but it will be a waste of materials and time, thus having the option to fill the cavity of the object with virtually lesser material to achieve the same result is very beneficial. Higher infills give more strength, but take longer to print. You can select different infill patterns.
 
 - Overhang
+
 ![Overhang](images/3dprinting/overhang.png)
+
 -The limit where there is insufficient support to print angled elements. Most printers can handle an overhang of 45 deg.
 
 - Bed adhesion
+
 ![Bed Adhesion](images/3dprinting/bedadhesion.png)
+
 The print bed is usually heated to improve adhesion. Sometimes, the print object requires help in adhering to the print bed. Some common bed adhesion used will be, Skirt - used to outline the print base and no bed adhesion. Brims - allow some adhesion to the print perimeter. Rafts are full platforms on which the 3D print is placed. Print adhesion is onto the raft instead of the bed.
 
 

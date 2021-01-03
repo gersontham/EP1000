@@ -56,11 +56,16 @@ These were the steps I used to create my 3D print.
 
 6. To shorten the print time, you could increase your print speed, increase your layer height, decrease your wall thickness and decrease your infill density.
 7. Save the file as a g-code, save it into a SD card and input the print into the printer.
-8. After the print is finish, remove the support material and clean up the surface with various files and sand paper. And your done.
 
 ![Printing 1](images/3dprinting/printing1.jpg)
 ![Printing 2](images/3dprinting/printing2.jpg)
 ![Printing 3](images/3dprinting/printing3.jpg)
+
+8. After the print is finish, remove the support material and clean up the surface with various files and sand paper. And your done.
+
+![Remove Support](images/3dprinting/removesupport.jpg)
+![Final Print](images/3dprinting/finalprint.jpg)
+
 
 ### Future Reference and Learning Points
 Overall, this project was a good introduction to the world of 3D printing as I have can out of this experience with many thing I would like to improve for my future print. I should design the prototype with minimizing support material in mind as the post process is very time consuming. However, if I do need support materials, perhaps I should use custom support materials that will provide the adequate support for the overhangs and come in less contact with the print.

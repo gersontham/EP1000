@@ -28,7 +28,7 @@ This is the list of materials I would need to make this project.
 |2|LM35 Sensor|$0.00|1|$0.00|Provided by SP FabLab|
 |3|Potentiometer|$0.00|1|$0.00|Provided by SP FabLab|
 |4|Arduino Uno|$0.00|1|$0.00|Provided by SP FabLab|
-|5|12v DC Computer Cooling |$0.00|1|$0.00|Provided by SP FabLab|
+|5|12v DC Computer Cooling Fan|$0.00|1|$0.00|Provided by SP FabLab|
 |6|H-Bridge (L298N)|$0.00|1|$0.00|Provided by SP FabLab|
 |7|M3 Screw and Nut|$0.00|4|$0.00|Provided by SP FabLab|
 |8|Red and Green LEDs|$0.00|2|$0.00|Provided by SP FabLab|

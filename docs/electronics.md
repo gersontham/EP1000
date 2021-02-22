@@ -5,7 +5,7 @@ layout: default
 # Electronics
 Learning about electronics in this module was split into 2 parts. One was a physical aspect where we got to learn how to solder components together and on tinkercad where we can design circuits and test them before wiring them up on a breadboard. This can prevent any uncertainty towards the fear of doing something wrong while doing it for the first time.
 
-To start of with soldering. I started of with soldering our very own set of alligator clips to then ends of multi strand wire. This exercise was quite useful as not only do you learn how to prep a surface for soldering, like sanding it a little and applying a little bit of flux, but also tinning the ends of the multi strand wire so it will be easier to manipulate for soldering to the surface o=f the alligator clip.
+To start of with soldering. I started of with soldering our very own set of alligator clips to then ends of multi strand wire. This exercise was quite useful as not only do you learn how to prep a surface for soldering, like sanding it a little and applying a little bit of flux, but also tinning the ends of the multi strand wire so it will be easier to manipulate for soldering to the surface of the alligator clip.
 
 ![alligatorclips](images/electronics/alligator.jpg)
 
@@ -13,7 +13,7 @@ The other aspect was designing circuits in tinkercad. To practice using tinkerca
 
 ![simple circuit](images/electronics/simplecircuit.JPG)
 
-After the practice, I decided to design a Astable 555 timer in tinkercad. After some time I managed it. Tinkercad also allows you to run a simulation of your design to test any bugs that it might haveand thus after testing, it worked. I then moved on to wiring it up on an actual breadboard and it worked.
+After the practice, I decided to design a Astable 555 timer in tinkercad. After some time I managed it. Tinkercad also allows you to run a simulation of your design to test any bugs that it might have and thus after testing, it worked. I then moved on to wiring it up on an actual breadboard and it worked.
 
 ![555](images/electronics/astable555.JPG)
 ![555 IRL](images/electronics/555irl.jpg)

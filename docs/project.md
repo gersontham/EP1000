@@ -12,8 +12,8 @@ What is your final project about, what does it do? Add a concept sketch or diagr
 |--------|-------------|
 |Purpose|To keep my laptop at a low temperature when I am playing games or using it to do work. Preventing it from overheating.|
 |Laser Cutting|Frame of Laptop Stand, Fan mounting|
-|3D Printing| Mounting for Arduino, Knob for Potentiometer|
-|µC Input|Detect the increase in temperature from bottom of laptop, Potentiometer, LM35|
+|3D Printing|Knob for Potentiometer|
+|µC Input|Detect the increase in temperature from bottom of laptop using LM35, Potentiometer for manual control|
 |µC Output|Control Speed of fans (Temperature)|
 |To Buy|CPU cooling fan (12v)/DC fan, LM35 Sensor, Push button switch, Potentiometer, L298N (H-bridge)|
 

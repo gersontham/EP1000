@@ -346,12 +346,7 @@ Testing the prototype was a little time consuming at the start as I did not real
 
 ## Results
 
-<iframe width="560"
-        height="315"
-        src="https://www.youtube.com/embed/WhZLdxxuaM8"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WhZLdxxuaM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![slide](images/finalproject/presentation.png)
 

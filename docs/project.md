@@ -6,7 +6,9 @@ layout: default
 
 ## Concept
 
-What is your final project about, what does it do? Add a concept sketch or diagram of your proposed project.
+I tend to lag when I am playing computer games and I have no reliable way to monitor my computers temperature or change the fan speed to accommodate for the rise in temperature when I am playing games. Thus, the concept of this project is to design a system to change the speed of a fan to in relation to the temperature of my laptop.
+
+![concept](images/finalproject/concept.jpg)
 
 |Project |Temperature Sensing Laptop Cooler |
 |--------|-------------|
@@ -344,7 +346,12 @@ Testing the prototype was a little time consuming at the start as I did not real
 
 ## Results
 
-[![](http://img.youtube.com/vi/WhZLdxxuaM8/0.jpg)](http://www.youtube.com/watch?v=WhZLdxxuaM8 "")
+<iframe width="560"
+        height="315"
+        src="https://youtu.be/WhZLdxxuaM8"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
 
 ![slide](images/finalproject/presentation.png)
 
@@ -354,4 +361,10 @@ What conclusions can you draw from your final project? What are the issues/probl
 
 ## Design files & Source Code
 
-Include all original design files and source code for your project.
+Download Here: [coolerframe.f3d](coolerframe.f3d)
+
+{% include frame.html %}
+
+Download Here: [knob.f3d](Knob.f3d)
+
+{% include frame.html %}

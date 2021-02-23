@@ -23,10 +23,12 @@ Arduino is an open-source electronics platform based on both hardware and softwa
 
 To learn more about how the Arduino coding works, I used tinkercad to design some simple circuits and coded them to work with the intelligence of the Arduino.
 
-TASK 1: Simple LED Blink
+## TASK 1: Simple LED Blink
+
 ![task1](images/electronics/task1.JPG)
 
-TASK 2: Push Button to Turn on LED
+## TASK 2: Push Button to Turn on LED
+
 ![task2](images/electronics/task2.JPG)
 
 The important thing to note was the way the LED cathode and anode where at in relation to Ground (GND) and 5v.
@@ -36,8 +38,12 @@ Input devices are often called Sensors. Output devices are often called Actuator
 
 An example of an input device will be using a push button switch. This specific example will be using the push button switch to toggle between the states of the red and green leds from; BOTH OFF, RED ON GREEN OFF, RED OFF GREEN ON and BOTH ON. I first designed the circuit in tinkercad and coded it so it will interface properly. After the simulations were working, I transferred it to the actual arduino and it worked the same.
 
+## Toggle Push Button Input
+
 ![toggle](images/electronics/toggle.JPG)
 ![Toggle IRL](images/electronics/toggleirl.jpg)
+
+## Potentiometer Input
 
 Another example of a input device is using a potentiometer to vary the brightness of a LED. This was what I came up with.
 
@@ -48,6 +54,8 @@ Another example of a input device is using a potentiometer to vary the brightnes
 
 # Output Devices
 Output devices are often called Actuators. An Actuator is a component that moves or controls movement. We use output devices to display information or move mechanisms.
+
+## RGB Output
 
 The example of an output device I am showing here will be how a RGB LED, the output interfaces with the different light values that is obtained through the analog from a Light Dependent Resistor (LDR). Similar process to the input toggle, I designed the circuit in tinkercad, coded it and then after a successful simulation transferred it to the actual arduino, wired it up and it worked.
 

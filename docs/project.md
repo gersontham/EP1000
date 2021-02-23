@@ -32,6 +32,7 @@ This is the list of materials I would need to make this project.
 |6|H-Bridge (L298N)|$0.00|1|$0.00|Provided by SP FabLab|
 |7|M3 Screw and Nut|$0.00|4|$0.00|Provided by SP FabLab|
 |8|Red and Green LEDs|$0.00|2|$0.00|Provided by SP FabLab|
+|9|7805 Voltage Regulator|$0.00|1|$0.00|Provided by SP FabLab|
 
 ## Process
 

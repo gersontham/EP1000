@@ -1,4 +1,4 @@
----
+fulfilling---
 layout: default
 ---
 
@@ -357,9 +357,9 @@ Testing the prototype was a little time consuming at the start as I did not real
 
 ## Conclusion
 
-What conclusions can you draw from your final project? What are the issues/problems encountered? How did you resolve them? What are the improvements that can be made to your project?
+Overall, it was a fun experience for a first project. Although a little ambitious. In the sense that there are parts where things can go wrong, such as the mini L298N fiasco. But overall a very achievable and fulfilling. It encompasses all the things that I have learnt during this module. Regarding the prototype there are many things to talk about. Firstly, what went right. I felt that the toggle system along with how each mode interfaces with the toggle was done very well and without might hassle. The design of the frame and knob for the potentiometer was also parts that I believe turned out pretty good after the various iterations it went through. Secondly, what went wrong. I lack the understanding of some of the electronic components, mainly the mini L298N. I feel that it is paramount to first understand the limitations of the components that you will be using in the future to prevent unnecessary waste of time trying to figure out an issue that takes 10 minutes to resolve. However, the silver lining in this was I better learnt how to read and interpret electronic component datasheets and got more soldering practice in the time I was trying to resolve this issue for myself. Lastly, what can be improved. The space under the fans is a little tight for all the electronics and wires to fit as one cohesive unit, and thus an improvement that can be made will be to raise the height of the cooler by a little to accommodate the electronics and wires. Or design a separate housing for the electronics. I also could make use of an Arduino Nano that will provide me a direct counter to the space issue as it leaves a smaller footprint. Another improvement I would like to add will be a jack for 12v power. Right now the system is ran on a external power supply connected using alligator clips. Thus, adding the jack will provide more universal use for the system.  
 
-## Design files & Source Code
+## Design files
 
 Download Here: [coolerframe.f3d](coolerframe.f3d)
 

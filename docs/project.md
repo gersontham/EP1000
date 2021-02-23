@@ -348,7 +348,7 @@ Testing the prototype was a little time consuming at the start as I did not real
 
 <iframe width="560"
         height="315"
-        src="https://youtu.be/WhZLdxxuaM8"
+        src="https://www.youtube.com/embed/WhZLdxxuaM8"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
